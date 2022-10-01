@@ -1,0 +1,14 @@
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\bin\Debug\netcoreapp3.1\MyFirstApp.1.exe
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\bin\Debug\netcoreapp3.1\MyFirstApp.1.deps.json
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\bin\Debug\netcoreapp3.1\MyFirstApp.1.runtimeconfig.json
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\bin\Debug\netcoreapp3.1\MyFirstApp.1.runtimeconfig.dev.json
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\bin\Debug\netcoreapp3.1\MyFirstApp.1.dll
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\bin\Debug\netcoreapp3.1\MyFirstApp.1.pdb
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\obj\Debug\netcoreapp3.1\MyFirstApp.1.csproj.AssemblyReference.cache
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\obj\Debug\netcoreapp3.1\MyFirstApp.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\obj\Debug\netcoreapp3.1\MyFirstApp.1.AssemblyInfoInputs.cache
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\obj\Debug\netcoreapp3.1\MyFirstApp.1.AssemblyInfo.cs
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\obj\Debug\netcoreapp3.1\MyFirstApp.1.csproj.CoreCompileInputs.cache
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\obj\Debug\netcoreapp3.1\MyFirstApp.1.dll
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\obj\Debug\netcoreapp3.1\MyFirstApp.1.pdb
+D:\SkillFactory\C#\MyFirstApp\MyFirstApp.1\obj\Debug\netcoreapp3.1\MyFirstApp.1.genruntimeconfig.cache
