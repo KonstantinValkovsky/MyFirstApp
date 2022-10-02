@@ -31,7 +31,11 @@ namespace MyFirstApp._1
             MyFavoriteDay = DaysOfWeek.Friday;
             Console.WriteLine(MyFavoriteDay);
 
+<<<<<<< HEAD
             
+=======
+            Semaphore 
+>>>>>>> c935c729092542c0dc75cc01bf28cd0be24ae169
 
 
 
