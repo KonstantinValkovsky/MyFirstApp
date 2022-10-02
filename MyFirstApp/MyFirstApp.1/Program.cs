@@ -20,15 +20,28 @@ namespace MyFirstApp._1
             byte MyAge = 23;
             bool pet = true;
             double sizeshoes = 45;
-            
+
             Console.WriteLine("\nMy name is " + MyName);
             Console.WriteLine("My Age " + MyAge);
             Console.WriteLine("Do you have a pet?\t " + pet);
             Console.WriteLine("My shoe size is " + sizeshoes);
+            Console.WriteLine();
+
+            DaysOfWeek MyFavoriteDay;
+            MyFavoriteDay = DaysOfWeek.Friday;
+            Console.WriteLine(MyFavoriteDay);
 
 
 
             Console.ReadKey();
         }
+        enum DaysOfWeek : byte
+            {
+            Tuesday,
+            Monday,
+            Wednesday,
+            Friday
+        }
+
     }
 }
