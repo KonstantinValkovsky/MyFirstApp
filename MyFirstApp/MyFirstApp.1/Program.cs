@@ -31,6 +31,8 @@ namespace MyFirstApp._1
             MyFavoriteDay = DaysOfWeek.Friday;
             Console.WriteLine(MyFavoriteDay);
 
+            
+
 
 
             Console.ReadKey();
@@ -41,6 +43,13 @@ namespace MyFirstApp._1
             Monday,
             Wednesday,
             Friday
+        }
+
+        enum Semaphore
+        {
+            Red = 100,
+            Yellow = 200,
+            Green = 300
         }
 
     }
