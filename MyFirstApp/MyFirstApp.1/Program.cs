@@ -17,6 +17,17 @@ namespace MyFirstApp._1
 
             Console.WriteLine('\x23');
 
+            byte MyAge = 23;
+            bool pet = true;
+            double sizeshoes = 45;
+            
+            Console.WriteLine("\nMy name is " + MyName);
+            Console.WriteLine("My Age " + MyAge);
+            Console.WriteLine("Do you have a pet?\t " + pet);
+            Console.WriteLine("My shoe size is " + sizeshoes);
+
+
+
             Console.ReadKey();
         }
     }
